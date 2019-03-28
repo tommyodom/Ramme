@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          Hotel Austin
+bio:            'Just a simple Jekyll theme experiment'
+description:    "Just some experimentation"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            http://localhost:4000
 
 # Jekyll
 permalink:      /:title/
